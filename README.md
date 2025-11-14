@@ -1,6 +1,6 @@
 # VivaDecor 🌿
 
-![VivaDecor Banner](./docs/img/ui/logo.png)
+![VivaDecor Banner](./img/ui/logo.png)
 
 **VivaDecor** is a modern, fully responsive static website showcasing decor products and services. The site is built with modern web technologies and optimized for performance, SEO, and mobile devices.
 
