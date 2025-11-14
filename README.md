@@ -51,17 +51,18 @@ Check the live site here: [VivaDecor on GitHub Pages](https://sergeykovalev3.git
 ---
 
 ## 📁 Project Structure (Deployment Version)
+```
 docs/
-├── css/ # Compiled and minified CSS
-├── js/ # Compiled and minified JS
-├── img/ # Optimized images including WebP
-├── fonts/ # Fonts used on the site
-├── files/ # Additional static files
+├── css/      # Compiled and minified CSS
+├── js/       # Compiled and minified JS
+├── img/      # Optimized images including WebP
+├── fonts/    # Fonts used on the site
+├── files/    # Additional static files
 └── index.html # Main HTML file
+```
+## 📬 Contacts
 
-📬 Contact
-
-GitHub: @sergeykovalev3
-Email: sergey.kovalev_3@mail.ru
-Telegram: https://t.me/sergeykovalevs
+- **GitHub**: @sergeykovalev3
+- **Email**: sergey.kovalev_3@mail.ru
+- **Telegram**: https://t.me/sergeykovalevs
 
